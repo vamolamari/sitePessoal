@@ -38,6 +38,7 @@ h2 {
 #bio {
   font-family: cursive;
   padding: 50px;
+  margin-top: 9%;
 }
 
 .line {
@@ -48,7 +49,7 @@ h2 {
 }
 
 .parallax-inner {
-  display: table-cell;
+  margin-top: 10%;
   vertical-align: middle;
 }
 .menu {
